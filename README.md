@@ -1,1 +1,1 @@
-# Ex.Python Lista de introdução em Python
+#Lista de introdução em Python
